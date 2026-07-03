@@ -2,9 +2,7 @@
 
 # Hi, I'm Damir
 
-**Fullstack student focused on .NET, desktop apps, APIs, and Django projects.**
-
-<sub>computer science student, baby-jun dev and just a dreamer</sub>
+**Fullstack student focused on .NET, desktop apps and client-server applications.**
 
 <br />
 <br />
