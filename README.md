@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Damir
+<br />
 
 **Fullstack student focused on .NET, desktop apps and client-server applications.**
 
@@ -18,10 +19,13 @@
 
 ## About
 
-- I build fullstack projects with a focus on clean architecture, usable interfaces, and real product flows.
-- My main focus is **ASP.NET Core**, **Avalonia**, **WPF**, **Django**, **REST API**, **MVVM**, and **databases**.
-- I like projects where frontend, backend, data, and UX meet in one working system.
-- Currently growing as a fullstack developer and turning student projects into polished apps.
+– I build fullstack projects with a focus on clean architecture, usable interfaces, and real product flows.
+
+– My main focus is **ASP.NET Core**, **Avalonia**, **WPF**, **Django**, **REST API**, **MVVM**, and **databases**.
+
+– I like projects where frontend, backend, data, and UX meet in one working system.
+
+– Currently growing as a fullstack developer and turning student projects into polished apps.
 
 ## Tech Stack
 
@@ -62,10 +66,13 @@
 
 ## Featured Projects
 
-- [duck_games](https://github.com/prettyw1ld/duck_games) - Jeopardy-style Django web game with lobbies, observers, ratings, an item shop, and realtime SSE updates.
-- [DamircoApp](https://github.com/prettyw1ld/DamircoApp) - Avalonia client app for an online computer parts store connected to an ASP.NET Core API.
-- [DamircoAPI](https://github.com/prettyw1ld/DamircoAPI) - Backend for a computer parts store with REST API, JWT, Entity Framework Core, MySQL, Swagger, and `.docx` report generation.
-- [django_shop](https://github.com/prettyw1ld/django_shop) - Django shop project focused on web backend, templates, data models, and classic CRUD flows.
+[duck_games](https://github.com/prettyw1ld/duck_games) - Jeopardy-style Django web game with lobbies, observers, ratings, an item shop, and realtime SSE updates.
+
+[DamircoApp](https://github.com/prettyw1ld/DamircoApp) - Avalonia client app for an online computer parts store connected to an ASP.NET Core API.
+
+[DamircoAPI](https://github.com/prettyw1ld/DamircoAPI) - Backend for a computer parts store with REST API, JWT, Entity Framework Core, MySQL, Swagger, and `.docx` report generation.
+
+[django_shop](https://github.com/prettyw1ld/django_shop) - Django shop project focused on web backend, templates, data models, and classic CRUD flows.
 
 ## GitHub Stats
 
@@ -81,13 +88,10 @@
 
 ## Current Direction
 
-- Deepening ASP.NET Core API design and client-server architecture.
-- Improving desktop app UX with Avalonia, WPF, and MVVM.
-- Building Django projects with realtime features and clean domain logic.
-- Turning student projects into apps that look and behave like finished products.
+I am studying at Perm Aviation Technical College and constantly taking professional development courses to improve my engineering skills. Right now I am deepening my knowledge of ASP.NET Core API design, client-server architecture and desktop apps (not only c#) while turning student projects into apps that look and behave like finished products. I am also confident working in multilingual environments: Russian is my native language, English is at C1 level, and Turkish is at B2 level.
 
 <div align="center">
 
-**Thanks for visiting**
+**Thanks for visiting (✿◡‿◡)**
 
 </div>
