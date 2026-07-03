@@ -5,7 +5,6 @@
 **Fullstack student focused on .NET, desktop apps and client-server applications.**
 
 <br />
-<br />
 
 <a href="mailto:damirkdz@gmail.com">
   <img src="https://img.shields.io/badge/Email-damirkdz%40gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white" alt="Email" />
