@@ -7,7 +7,7 @@
 
 <br />
 
-<a href="mailto:damirkdz@gmail.com">
+<a href="mailto:denikolop@mail.ru">
   <img src="https://img.shields.io/badge/Email-damirkdz%40gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://t.me/prettywi1d">
