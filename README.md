@@ -13,7 +13,7 @@
 <a href="https://t.me/prettywi1d">
   <img src="https://img.shields.io/badge/Telegram-%40prettywi1d-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=prettyw1ld&style=flat&color=0e75b6&label=views" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=prettyw1ld&style=flat&color=0e75b6&label=views" alt="Profile views" /> -->
 
 </div>
 
