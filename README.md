@@ -1,19 +1,20 @@
+<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <div align="center">
 
-# Hi, I'm Damir
-<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DAD4BB&height=150&section=header&text=PRETTYW1LD&fontColor=4A4637&fontSize=54&fontAlignY=42&desc=UNIT%20DATA%20%2F%2F%20DAMIR%20KHODZHIEV&descAlignY=72&descSize=15" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B7E5A&center=true&vCenter=true&width=620&lines=Fullstack+dev:+C%23+.NET+%2F+Java+Android+%2F+Python+Django;QA+engineer+%26+business+analyst+@+Taskin;Desktop+apps+that+feel+finished;Glory+to+Mankind." alt="typing" />
 
 <br />
 
-<a href="mailto:denikolop@mail.ru">
-  <img src="https://img.shields.io/badge/Email-denikolop%40mail.ru-0A66C2?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://t.me/prettywi1d">
-  <img src="https://img.shields.io/badge/Telegram-%40prettywi1d-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<!-- <img src="https://komarev.com/ghpvc/?username=prettyw1ld&style=flat&color=0e75b6&label=views" alt="Profile views" /> -->
+<a href="mailto:denikolop@mail.ru"><img src="https://img.shields.io/badge/mail-denikolop%40mail.ru-4A4637?style=for-the-badge&logo=maildotru&logoColor=DAD4BB" alt="Email" /></a>
+<a href="https://t.me/prettywi1d"><img src="https://img.shields.io/badge/telegram-%40prettywi1d-4A4637?style=for-the-badge&logo=telegram&logoColor=DAD4BB" alt="Telegram" /></a>
+
+<!--
+  ▸ A2 GIF SLOT
+  Положи гифку в assets/a2.gif (или вставь прямую ссылку) и раскомментируй строку ниже.
+  <img src="assets/a2.gif" width="420" alt="A2" />
+-->
 
 </div>
 
@@ -134,12 +135,9 @@ I build client-server apps end to end — from the database schema and REST API 
 
 </div>
 
-## Current Direction
-
-I am studying at Perm Aviation Technical College and constantly taking professional development courses to improve my engineering skills. Right now I am deepening my knowledge of ASP.NET Core API design, client-server architecture and desktop apps (not only c#) while turning student projects into apps that look and behave like finished products. I am also confident working in multilingual environments: Russian is my native language, English is at C1 level, and Turkish is at B2 level.
-
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <div align="center">
 
-**Thanks for visiting (✿◡‿◡)**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=DAD4BB&height=70&section=footer&text=thanks%20for%20visiting%20%E2%80%94%20(%E2%9C%BF%E2%97%A1%E2%80%BF%E2%97%A1)&fontColor=4A4637&fontSize=18&fontAlignY=50" width="100%" alt="footer" />
 
 </div>
