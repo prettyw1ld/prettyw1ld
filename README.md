@@ -138,6 +138,4 @@ I build client-server apps end to end — from the database schema and REST API 
 <!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DAD4BB&height=70&section=footer&text=thanks%20for%20visiting%20%E2%80%94%20(%E2%9C%BF%E2%97%A1%E2%80%BF%E2%97%A1)&fontColor=4A4637&fontSize=18&fontAlignY=50" width="100%" alt="footer" />
-
 </div>
