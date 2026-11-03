@@ -10,12 +10,12 @@
 <a href="mailto:denikolop@mail.ru"><img src="https://img.shields.io/badge/mail-denikolop%40mail.ru-4A4637?style=for-the-badge&logo=maildotru&logoColor=DAD4BB" alt="Email" /></a>
 <a href="https://t.me/prettywi1d"><img src="https://img.shields.io/badge/telegram-%40prettywi1d-4A4637?style=for-the-badge&logo=telegram&logoColor=DAD4BB" alt="Telegram" /></a>
 
-<br /><br />
+<br />
 
 <img src="https://media1.tenor.com/m/VWjpn9cKRNAAAAAd/nier-nier-automata.gif" width="520" alt="A2" />
 
 </div>
-
+<br />
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## ▸ UNIT DATA
