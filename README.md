@@ -20,7 +20,7 @@
 
 ## ▸ UNIT DATA
 
-<img align="right" src="https://media1.tenor.com/m/VT0tevsY_kkAAAAC/nier-automata.gif" width="190" alt="A2" />
+<!-- <img align="right" src="https://media1.tenor.com/m/VT0tevsY_kkAAAAC/nier-automata.gif" width="190" alt="A2" /> -->
 
 ```yaml
 unit:       Damir Khodzhiev
