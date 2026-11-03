@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="https://media1.tenor.com/m/VWjpn9cKRNAAAAAC/nier-nier-automata.gif" width="520" alt="A2" />
+<img src="https://media1.tenor.com/m/VWjpn9cKRNAAAAAd/nier-nier-automata.gif" width="520" alt="A2" />
 
 </div>
 
