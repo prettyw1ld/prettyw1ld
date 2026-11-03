@@ -10,17 +10,17 @@
 <a href="mailto:denikolop@mail.ru"><img src="https://img.shields.io/badge/mail-denikolop%40mail.ru-4A4637?style=for-the-badge&logo=maildotru&logoColor=DAD4BB" alt="Email" /></a>
 <a href="https://t.me/prettywi1d"><img src="https://img.shields.io/badge/telegram-%40prettywi1d-4A4637?style=for-the-badge&logo=telegram&logoColor=DAD4BB" alt="Telegram" /></a>
 
-<!--
-  ▸ A2 GIF SLOT
-  Положи гифку в assets/a2.gif (или вставь прямую ссылку) и раскомментируй строку ниже.
-  <img src="assets/a2.gif" width="420" alt="A2" />
--->
+<br /><br />
+
+<img src="https://media1.tenor.com/m/VWjpn9cKRNAAAAAC/nier-nier-automata.gif" width="520" alt="A2" />
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## ▸ UNIT DATA
+
+<img align="right" src="https://media1.tenor.com/m/VT0tevsY_kkAAAAC/nier-automata.gif" width="190" alt="A2" />
 
 ```yaml
 unit:       Damir Khodzhiev
