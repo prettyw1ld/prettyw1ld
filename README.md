@@ -1,141 +1,107 @@
-<!-- ═══════════════════════  HEADER  ═══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=DAD4BB&height=150&section=header&text=PRETTYW1LD&fontColor=4A4637&fontSize=54&fontAlignY=42&desc=UNIT%20DATA%20%2F%2F%20DAMIR%20KHODZHIEV&descAlignY=72&descSize=15" width="100%" alt="header" />
+<img src="assets/banner.svg" width="100%" alt="Animated pastel banner with drifting clouds and sparkles: prettyw1ld, Damir Khodzhiev — fullstack developer (C# .NET, Java Android, Python Django), QA engineer and business analyst at Taskin" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B7E5A&center=true&vCenter=true&width=620&lines=Fullstack+dev:+C%23+.NET+%2F+Java+Android+%2F+Python+Django;QA+engineer+%26+business+analyst+@+Taskin;Desktop+apps+that+feel+finished;Glory+to+Mankind." alt="typing" />
+<img src="assets/chiikawa-cherry.gif" width="120" alt="Chiikawa, a small white character, happily eating a red cherry" />
 
-<br />
-
-<a href="mailto:denikolop@mail.ru"><img src="https://img.shields.io/badge/mail-denikolop%40mail.ru-4A4637?style=for-the-badge&logo=maildotru&logoColor=DAD4BB" alt="Email" /></a>
-<a href="https://t.me/prettywi1d"><img src="https://img.shields.io/badge/telegram-%40prettywi1d-4A4637?style=for-the-badge&logo=telegram&logoColor=DAD4BB" alt="Telegram" /></a>
-
-<br />
-
-<img src="https://media1.tenor.com/m/VWjpn9cKRNAAAAAd/nier-nier-automata.gif" width="520" alt="A2" />
+<a href="mailto:denikolop@mail.ru">denikolop@mail.ru</a> &nbsp;·&nbsp; <a href="https://t.me/prettywi1d">Telegram @prettywi1d</a> &nbsp;·&nbsp; Moscow / Perm, RU
 
 </div>
-<br />
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## ▸ UNIT DATA
-
-<!-- <img align="right" src="https://media1.tenor.com/m/VT0tevsY_kkAAAAC/nier-automata.gif" width="190" alt="A2" /> -->
-
-```yaml
-unit:       Damir Khodzhiev
-class:      Fullstack Developer · QA Engineer · Business Analyst
-location:   Moscow / Perm, RU
-
-education:
-  - Perm Aviation College   # Information Systems & Programming, 4th year
-
-current_ops:
-  - QA / BA @ Taskin    # freelance exchange, task-in.ru
-  - Intern @ Beeline    # AI agent for the B2B department
-
-languages:  [Russian: native, English: C1, Turkish: B2]
-```
-
-I build client-server apps end to end — from the database schema and REST API to the desktop or mobile client — and then break them on purpose as a QA. I like systems where backend, data, UX and business process meet in one working product.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ▸ ARSENAL
+## About me
 
 <table>
 <tr>
-<td width="140"><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/C%23-4A4637?style=for-the-badge&logo=dotnet&logoColor=DAD4BB" alt="C#" />
-<img src="https://img.shields.io/badge/Java-4A4637?style=for-the-badge&logo=openjdk&logoColor=DAD4BB" alt="Java" />
-<img src="https://img.shields.io/badge/Python-4A4637?style=for-the-badge&logo=python&logoColor=DAD4BB" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-4A4637?style=for-the-badge&logo=mysql&logoColor=DAD4BB" alt="SQL" />
-<img src="https://img.shields.io/badge/TypeScript-4A4637?style=for-the-badge&logo=typescript&logoColor=DAD4BB" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-4A4637?style=for-the-badge&logo=javascript&logoColor=DAD4BB" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML%20%2F%20CSS-4A4637?style=for-the-badge&logo=html5&logoColor=DAD4BB" alt="HTML/CSS" />
+<td width="62%" valign="top">
+
+I build client-server apps end to end — from the database schema and REST API to the desktop or mobile client — and then break them on purpose as a QA. I like systems where backend, data, UX and business process meet in one working product.
+
+**Now**
+- QA / BA at Taskin (freelance exchange, task-in.ru)
+- Intern at Beeline — AI agent for the B2B department
+
+**Studying** · Perm Aviation College, Information Systems & Programming, 4th year<br />
+**Languages** · Russian (native), English (C1), Turkish (B2)
+
 </td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-4A4637?style=for-the-badge&logo=dotnet&logoColor=DAD4BB" alt="ASP.NET Core" />
-<img src="https://img.shields.io/badge/EF%20Core-4A4637?style=for-the-badge&logo=dotnet&logoColor=DAD4BB" alt="EF Core" />
-<img src="https://img.shields.io/badge/Django-4A4637?style=for-the-badge&logo=django&logoColor=DAD4BB" alt="Django" />
-<img src="https://img.shields.io/badge/REST%20API-4A4637?style=for-the-badge&logo=swagger&logoColor=DAD4BB" alt="REST API" />
-<img src="https://img.shields.io/badge/JWT-4A4637?style=for-the-badge&logo=jsonwebtokens&logoColor=DAD4BB" alt="JWT" />
-</td>
-</tr>
-<tr>
-<td><b>Clients</b></td>
-<td>
-<img src="https://img.shields.io/badge/Avalonia-4A4637?style=for-the-badge&logo=dotnet&logoColor=DAD4BB" alt="Avalonia" />
-<img src="https://img.shields.io/badge/WPF-4A4637?style=for-the-badge&logo=dotnet&logoColor=DAD4BB" alt="WPF" />
-<img src="https://img.shields.io/badge/MVVM-4A4637?style=for-the-badge" alt="MVVM" />
-<img src="https://img.shields.io/badge/Electron-4A4637?style=for-the-badge&logo=electron&logoColor=DAD4BB" alt="Electron" />
-<img src="https://img.shields.io/badge/Android-4A4637?style=for-the-badge&logo=android&logoColor=DAD4BB" alt="Android" />
-</td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>
-<img src="https://img.shields.io/badge/MySQL-4A4637?style=for-the-badge&logo=mysql&logoColor=DAD4BB" alt="MySQL" />
-<img src="https://img.shields.io/badge/SQLite-4A4637?style=for-the-badge&logo=sqlite&logoColor=DAD4BB" alt="SQLite" />
-<img src="https://img.shields.io/badge/DB%20design-4A4637?style=for-the-badge&logo=databricks&logoColor=DAD4BB" alt="DB design" />
-</td>
-</tr>
-<tr>
-<td><b>QA &amp; Analysis</b></td>
-<td>
-<img src="https://img.shields.io/badge/Postman-4A4637?style=for-the-badge&logo=postman&logoColor=DAD4BB" alt="Postman" />
-<img src="https://img.shields.io/badge/Swagger-4A4637?style=for-the-badge&logo=swagger&logoColor=DAD4BB" alt="Swagger" />
-<img src="https://img.shields.io/badge/Test%20design-4A4637?style=for-the-badge" alt="Test design" />
-<img src="https://img.shields.io/badge/BPMN%20%2F%20UML-4A4637?style=for-the-badge" alt="BPMN / UML" />
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-4A4637?style=for-the-badge&logo=git&logoColor=DAD4BB" alt="Git" />
-<img src="https://img.shields.io/badge/Visual%20Studio-4A4637?style=for-the-badge" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/Android%20Studio-4A4637?style=for-the-badge&logo=androidstudio&logoColor=DAD4BB" alt="Android Studio" />
-<img src="https://img.shields.io/badge/VS%20Code-4A4637?style=for-the-badge" alt="VS Code" />
+<td width="38%" align="center" valign="middle">
+
+<img src="assets/chiikawa-typing.gif" width="230" alt="Chiikawa sitting at a computer, typing with a very focused face" />
+
+<sub><i>me, after “just one small fix”</i></sub>
+
 </td>
 </tr>
 </table>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ▸ MISSION LOG
+## Skills & tools
 
-| Project | Description | Stack |
-|:--|:--|:--|
-| **[Desktop-Helper](https://github.com/prettyw1ld/Desktop-Helper)** | «Пушик» — a pixel cat that lives on top of all windows and teaches 60+ users to use a computer: points with its paw at real buttons, notices when the step is done, explains selected parts of the screen and warns about scams. Works offline | Electron · TypeScript · UI Automation · Vosk · Groq |
-| **[DamircoApp](https://github.com/prettyw1ld/DamircoApp)** + **[DamircoAPI](https://github.com/prettyw1ld/DamircoAPI)** | Computer-parts store: desktop client with catalog, cart, favorites, checkout and admin panel + REST backend with JWT roles and `.docx` reports | Avalonia · MVVM · ASP.NET Core · EF Core · MySQL |
-| **[html-editor](https://github.com/prettyw1ld/html-editor)** | «Правка HTML» — edit HTML documents in the browser like in Google Docs: no install, no server, one `index.html`. Templates and 22 drag-and-drop blocks | JavaScript · HTML · CSS |
-| **[duck_games](https://github.com/prettyw1ld/duck_games)** | Jeopardy-style multiplayer web game with lobbies, observers, ratings, item shop and realtime SSE updates | Django · Python · JS |
+<img src="assets/skills.svg" width="100%" alt="Skills. Languages: C#, Java, Python, SQL, TypeScript, JavaScript, HTML/CSS. Backend: ASP.NET Core, EF Core, Django, REST API, JWT. Clients: Avalonia, WPF, MVVM, Electron, Android. Data: MySQL, SQLite, DB design. QA and analysis: Postman, Swagger, test design, BPMN/UML. Tools: Git, Visual Studio, Android Studio, VS Code" />
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ▸ RECORDS
+## Featured projects
 
-- 🥇 **1st place** — III Regional Professional Skills Contest, business-process modeling (2026) · later joined the jury
-- 🥇 **1st place** — Regional Informatics Olympiad (2025)
-- 📜 HSE — professional retraining «Database Development in DBMS» (2025)
-- 📜 Yandex Lyceum — «Web Development on Django» (2026)
-- ⚔️ Hackathons as team lead / fullstack / QA
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/prettyw1ld/Desktop-Helper"><img src="assets/project-desktop-helper.svg" width="100%" alt="Desktop-Helper: «Пушик», a pixel cat that lives on top of all windows and teaches 60+ users to use a computer — points at real buttons, notices when a step is done, explains parts of the screen and warns about scams. Works offline. Stack: Electron, TypeScript, UI Automation, Vosk, Groq" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/prettyw1ld/DamircoApp"><img src="assets/project-damirco.svg" width="100%" alt="DamircoApp and DamircoAPI: computer-parts store — desktop client with catalog, cart, favorites, checkout and admin panel, plus a REST backend with JWT roles and .docx reports. Stack: Avalonia, MVVM, ASP.NET Core, EF Core, MySQL" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/prettyw1ld/html-editor"><img src="assets/project-html-editor.svg" width="100%" alt="html-editor: «Правка HTML» — edit HTML documents in the browser like in Google Docs, no install, no server, one index.html, with templates and 22 drag-and-drop blocks. Stack: JavaScript, HTML, CSS" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/prettyw1ld/duck_games"><img src="assets/project-duck-games.svg" width="100%" alt="duck_games: Jeopardy-style multiplayer web game with lobbies, observers, ratings, item shop and realtime SSE updates. Stack: Django, Python, JS" /></a>
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Cards are clickable · DamircoApp backend lives in <a href="https://github.com/prettyw1ld/DamircoAPI">DamircoAPI</a></sub></p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ▸ ACTIVITY
+## Achievements
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+- **1st place** — III Regional Professional Skills Contest, business-process modeling (2026), later joined the jury
+- **1st place** — Regional Informatics Olympiad (2025)
+- **HSE** — professional retraining «Database Development in DBMS» (2025)
+- **Yandex Lyceum** — «Web Development on Django» (2026)
+- Hackathons as team lead / fullstack / QA
+
+</td>
+<td width="32%" align="center" valign="middle">
+
+<img src="assets/chiikawa-studying.gif" width="170" alt="Chiikawa studying hard at a desk, erasing something in a notebook" />
+
+</td>
+</tr>
+</table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=prettyw1ld&hide_border=true&background=DAD4BB&ring=4A4637&fire=8B7E5A&currStreakNum=4A4637&sideNums=4A4637&currStreakLabel=4A4637&sideLabels=4A4637&dates=6E6752&stroke=B5AC8E&date_format=j%20M%5B%20Y%5D" height="160" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=prettyw1ld&hide_border=true&background=FFFBF7&ring=FFB7C9&fire=F4A6BC&currStreakNum=5E4F68&sideNums=5E4F68&currStreakLabel=D9809B&sideLabels=9A8AA3&dates=9A8AA3&stroke=F3DDE6&date_format=j%20M%5B%20Y%5D" height="150" alt="GitHub contribution streak for prettyw1ld" />
 
-</div>
+<br /><br />
 
-<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
-<div align="center">
+<img src="assets/chiikawa-hearts.gif" width="120" alt="Chiikawa holding a heart balloon, with little pink hearts floating around" />
+
+**Let's talk:** [denikolop@mail.ru](mailto:denikolop@mail.ru) · [Telegram @prettywi1d](https://t.me/prettywi1d)
+
+<sub>thanks for stopping by ♡</sub>
 
 </div>

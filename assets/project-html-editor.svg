@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="222" viewBox="0 0 440 222" role="img" aria-labelledby="t">
+<title id="t">html-editor: «Правка HTML» — edit HTML documents in the browser like in Google Docs: no install, no server, one index.html. Templates and 22 drag-and-drop blocks. Stack: JavaScript, HTML, CSS</title>
+<g font-family="'Segoe UI','Trebuchet MS','Helvetica Neue',Arial,sans-serif">
+<rect x="1" y="1" width="438" height="220" rx="22" fill="#FFFFFF" stroke="#F9E3A7" stroke-width="2"/>
+<path d="M1 59V23A22 22 0 0 1 23 1H417A22 22 0 0 1 439 23V59Z" fill="#F9E3A7" fill-opacity=".4"/>
+<circle cx="34" cy="30" r="10" fill="#fff"/><path d="M34 34.5C30 31.5 28 29.5 29.6 27.5C31 26 33 26.4 34 28C35 26.4 37 26 38.4 27.5C40 29.5 38 31.5 34 34.5Z" fill="#F9E3A7"/>
+<text x="54" y="36" font-size="19" font-weight="700" fill="#5E4F68">html-editor</text>
+<text x="414" y="36" text-anchor="end" font-size="13" fill="#9A8AA3">view repo →</text>
+<text x="28" y="90" font-size="13.5" fill="#5E4F68">«Правка HTML» — edit HTML documents in the browser like</text>
+<text x="28" y="110" font-size="13.5" fill="#5E4F68">in Google Docs: no install, no server, one index.html.</text>
+<text x="28" y="130" font-size="13.5" fill="#5E4F68">Templates and 22 drag-and-drop blocks</text>
+<rect x="28" y="178" width="72" height="24" rx="12" fill="#F9E3A7" fill-opacity=".35"/><text x="64.0" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">JavaScript</text>
+<rect x="106" y="178" width="52" height="24" rx="12" fill="#F9E3A7" fill-opacity=".35"/><text x="132.0" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">HTML</text>
+<rect x="164" y="178" width="39" height="24" rx="12" fill="#F9E3A7" fill-opacity=".35"/><text x="183.5" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">CSS</text>
+</g>
+</svg>

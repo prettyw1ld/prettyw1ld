@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="222" viewBox="0 0 440 222" role="img" aria-labelledby="t">
+<title id="t">DamircoApp + DamircoAPI: Computer-parts store: desktop client with catalog, cart, favorites, checkout and admin panel + REST backend with JWT roles and .docx reports. Stack: Avalonia, MVVM, ASP.NET Core, EF Core, MySQL</title>
+<g font-family="'Segoe UI','Trebuchet MS','Helvetica Neue',Arial,sans-serif">
+<rect x="1" y="1" width="438" height="220" rx="22" fill="#FFFFFF" stroke="#A9D3FF" stroke-width="2"/>
+<path d="M1 59V23A22 22 0 0 1 23 1H417A22 22 0 0 1 439 23V59Z" fill="#A9D3FF" fill-opacity=".4"/>
+<circle cx="34" cy="30" r="10" fill="#fff"/><path d="M34 34.5C30 31.5 28 29.5 29.6 27.5C31 26 33 26.4 34 28C35 26.4 37 26 38.4 27.5C40 29.5 38 31.5 34 34.5Z" fill="#A9D3FF"/>
+<text x="54" y="36" font-size="19" font-weight="700" fill="#5E4F68">DamircoApp + DamircoAPI</text>
+<text x="414" y="36" text-anchor="end" font-size="13" fill="#9A8AA3">view repo →</text>
+<text x="28" y="90" font-size="13.5" fill="#5E4F68">Computer-parts store: desktop client with catalog, cart,</text>
+<text x="28" y="110" font-size="13.5" fill="#5E4F68">favorites, checkout and admin panel + REST backend with JWT</text>
+<text x="28" y="130" font-size="13.5" fill="#5E4F68">roles and .docx reports</text>
+<rect x="28" y="178" width="66" height="24" rx="12" fill="#A9D3FF" fill-opacity=".35"/><text x="61.0" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">Avalonia</text>
+<rect x="100" y="178" width="56" height="24" rx="12" fill="#A9D3FF" fill-opacity=".35"/><text x="128.0" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">MVVM</text>
+<rect x="162" y="178" width="92" height="24" rx="12" fill="#A9D3FF" fill-opacity=".35"/><text x="208.0" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">ASP.NET Core</text>
+<rect x="260" y="178" width="59" height="24" rx="12" fill="#A9D3FF" fill-opacity=".35"/><text x="289.5" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">EF Core</text>
+<rect x="325" y="178" width="58" height="24" rx="12" fill="#A9D3FF" fill-opacity=".35"/><text x="354.0" y="194" text-anchor="middle" font-size="12" fill="#5E4F68">MySQL</text>
+</g>
+</svg>

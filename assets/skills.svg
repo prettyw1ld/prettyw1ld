@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="324" viewBox="0 0 900 324" role="img" aria-labelledby="t">
+<title id="t">Skills — Languages: C#, Java, Python, SQL, TypeScript, JavaScript, HTML / CSS; Backend: ASP.NET Core, EF Core, Django, REST API, JWT; Clients: Avalonia, WPF, MVVM, Electron, Android; Data: MySQL, SQLite, DB design; QA &amp; analysis: Postman, Swagger, Test design, BPMN / UML; Tools: Git, Visual Studio, Android Studio, VS Code</title>
+<rect x="1" y="1" width="898" height="322" rx="24" fill="#FFFBF7" stroke="#F3DDE6" stroke-width="2"/>
+<g font-family="'Segoe UI','Trebuchet MS','Helvetica Neue',Arial,sans-serif">
+<circle cx="38" cy="49" r="6" fill="#FFB7C9"/>
+<text x="52" y="54" font-size="15" font-weight="700" fill="#5E4F68">Languages</text>
+<rect x="182" y="34" width="43" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="203.5" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">C#</text>
+<rect x="233" y="34" width="52" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="259.0" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">Java</text>
+<rect x="293" y="34" width="70" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="328.0" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">Python</text>
+<rect x="371" y="34" width="51" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="396.5" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">SQL</text>
+<rect x="430" y="34" width="89" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="474.5" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">TypeScript</text>
+<rect x="527" y="34" width="86" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="570.0" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">JavaScript</text>
+<rect x="621" y="34" width="99" height="30" rx="15" fill="#FFB7C9" fill-opacity=".45" stroke="#FFB7C9"/><text x="670.5" y="54" text-anchor="middle" font-size="14" fill="#5E4F68">HTML / CSS</text>
+<circle cx="38" cy="95" r="6" fill="#A9D3FF"/>
+<text x="52" y="100" font-size="15" font-weight="700" fill="#5E4F68">Backend</text>
+<rect x="182" y="80" width="110" height="30" rx="15" fill="#A9D3FF" fill-opacity=".45" stroke="#A9D3FF"/><text x="237.0" y="100" text-anchor="middle" font-size="14" fill="#5E4F68">ASP.NET Core</text>
+<rect x="300" y="80" width="73" height="30" rx="15" fill="#A9D3FF" fill-opacity=".45" stroke="#A9D3FF"/><text x="336.5" y="100" text-anchor="middle" font-size="14" fill="#5E4F68">EF Core</text>
+<rect x="381" y="80" width="70" height="30" rx="15" fill="#A9D3FF" fill-opacity=".45" stroke="#A9D3FF"/><text x="416.0" y="100" text-anchor="middle" font-size="14" fill="#5E4F68">Django</text>
+<rect x="459" y="80" width="80" height="30" rx="15" fill="#A9D3FF" fill-opacity=".45" stroke="#A9D3FF"/><text x="499.0" y="100" text-anchor="middle" font-size="14" fill="#5E4F68">REST API</text>
+<rect x="547" y="80" width="51" height="30" rx="15" fill="#A9D3FF" fill-opacity=".45" stroke="#A9D3FF"/><text x="572.5" y="100" text-anchor="middle" font-size="14" fill="#5E4F68">JWT</text>
+<circle cx="38" cy="141" r="6" fill="#D9C8F2"/>
+<text x="52" y="146" font-size="15" font-weight="700" fill="#5E4F68">Clients</text>
+<rect x="182" y="126" width="78" height="30" rx="15" fill="#D9C8F2" fill-opacity=".45" stroke="#D9C8F2"/><text x="221.0" y="146" text-anchor="middle" font-size="14" fill="#5E4F68">Avalonia</text>
+<rect x="268" y="126" width="54" height="30" rx="15" fill="#D9C8F2" fill-opacity=".45" stroke="#D9C8F2"/><text x="295.0" y="146" text-anchor="middle" font-size="14" fill="#5E4F68">WPF</text>
+<rect x="330" y="126" width="70" height="30" rx="15" fill="#D9C8F2" fill-opacity=".45" stroke="#D9C8F2"/><text x="365.0" y="146" text-anchor="middle" font-size="14" fill="#5E4F68">MVVM</text>
+<rect x="408" y="126" width="75" height="30" rx="15" fill="#D9C8F2" fill-opacity=".45" stroke="#D9C8F2"/><text x="445.5" y="146" text-anchor="middle" font-size="14" fill="#5E4F68">Electron</text>
+<rect x="491" y="126" width="75" height="30" rx="15" fill="#D9C8F2" fill-opacity=".45" stroke="#D9C8F2"/><text x="528.5" y="146" text-anchor="middle" font-size="14" fill="#5E4F68">Android</text>
+<circle cx="38" cy="187" r="6" fill="#F9E3A7"/>
+<text x="52" y="192" font-size="15" font-weight="700" fill="#5E4F68">Data</text>
+<rect x="182" y="172" width="71" height="30" rx="15" fill="#F9E3A7" fill-opacity=".45" stroke="#F9E3A7"/><text x="217.5" y="192" text-anchor="middle" font-size="14" fill="#5E4F68">MySQL</text>
+<rect x="261" y="172" width="66" height="30" rx="15" fill="#F9E3A7" fill-opacity=".45" stroke="#F9E3A7"/><text x="294.0" y="192" text-anchor="middle" font-size="14" fill="#5E4F68">SQLite</text>
+<rect x="335" y="172" width="88" height="30" rx="15" fill="#F9E3A7" fill-opacity=".45" stroke="#F9E3A7"/><text x="379.0" y="192" text-anchor="middle" font-size="14" fill="#5E4F68">DB design</text>
+<circle cx="38" cy="233" r="6" fill="#BFE8CF"/>
+<text x="52" y="238" font-size="15" font-weight="700" fill="#5E4F68">QA &amp; analysis</text>
+<rect x="182" y="218" width="80" height="30" rx="15" fill="#BFE8CF" fill-opacity=".45" stroke="#BFE8CF"/><text x="222.0" y="238" text-anchor="middle" font-size="14" fill="#5E4F68">Postman</text>
+<rect x="270" y="218" width="78" height="30" rx="15" fill="#BFE8CF" fill-opacity=".45" stroke="#BFE8CF"/><text x="309.0" y="238" text-anchor="middle" font-size="14" fill="#5E4F68">Swagger</text>
+<rect x="356" y="218" width="95" height="30" rx="15" fill="#BFE8CF" fill-opacity=".45" stroke="#BFE8CF"/><text x="403.5" y="238" text-anchor="middle" font-size="14" fill="#5E4F68">Test design</text>
+<rect x="459" y="218" width="108" height="30" rx="15" fill="#BFE8CF" fill-opacity=".45" stroke="#BFE8CF"/><text x="513.0" y="238" text-anchor="middle" font-size="14" fill="#5E4F68">BPMN / UML</text>
+<circle cx="38" cy="279" r="6" fill="#FFD3B6"/>
+<text x="52" y="284" font-size="15" font-weight="700" fill="#5E4F68">Tools</text>
+<rect x="182" y="264" width="44" height="30" rx="15" fill="#FFD3B6" fill-opacity=".45" stroke="#FFD3B6"/><text x="204.0" y="284" text-anchor="middle" font-size="14" fill="#5E4F68">Git</text>
+<rect x="234" y="264" width="105" height="30" rx="15" fill="#FFD3B6" fill-opacity=".45" stroke="#FFD3B6"/><text x="286.5" y="284" text-anchor="middle" font-size="14" fill="#5E4F68">Visual Studio</text>
+<rect x="347" y="264" width="118" height="30" rx="15" fill="#FFD3B6" fill-opacity=".45" stroke="#FFD3B6"/><text x="406.0" y="284" text-anchor="middle" font-size="14" fill="#5E4F68">Android Studio</text>
+<rect x="473" y="264" width="78" height="30" rx="15" fill="#FFD3B6" fill-opacity=".45" stroke="#FFD3B6"/><text x="512.0" y="284" text-anchor="middle" font-size="14" fill="#5E4F68">VS Code</text>
+</g>
+</svg>
