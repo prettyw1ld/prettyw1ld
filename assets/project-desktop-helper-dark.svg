@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="212" viewBox="0 0 440 212" role="img" aria-labelledby="t">
+<title id="t">Desktop-Helper: «Пушик» — a pixel cat that lives on top of all windows and teaches 60+ users to use a computer: points with its paw at real buttons, notices when the step is done, explains selected parts of the screen and warns about scams. Works offline. Stack: Electron, TypeScript, UI Automation, Vosk, Groq</title>
+<rect x=".5" y=".5" width="439" height="211" rx="16" fill="#16181d" stroke="#2a2d34"/>
+<text x="24" y="42" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="600" fill="#ece7e1">Desktop-Helper</text>
+<text x="416" y="41" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#d8a1b0">View repo →</text>
+<text x="24" y="78" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">«Пушик» — a pixel cat that lives on top of all windows and</text>
+<text x="24" y="98" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">teaches 60+ users to use a computer: points with its paw at real</text>
+<text x="24" y="118" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">buttons, notices when the step is done, explains selected parts</text>
+<text x="24" y="138" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">of the screen and warns about scams. Works offline</text>
+<rect x="24" y="164" width="72" height="24" rx="6" fill="#20232a"/><text x="60.0" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">Electron</text>
+<rect x="104" y="164" width="86" height="24" rx="6" fill="#20232a"/><text x="147.0" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">TypeScript</text>
+<rect x="198" y="164" width="107" height="24" rx="6" fill="#20232a"/><text x="251.5" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">UI Automation</text>
+<rect x="313" y="164" width="44" height="24" rx="6" fill="#20232a"/><text x="335.0" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">Vosk</text>
+<rect x="365" y="164" width="44" height="24" rx="6" fill="#20232a"/><text x="387.0" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">Groq</text>
+</svg>

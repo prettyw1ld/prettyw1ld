@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="24" viewBox="0 0 800 24">
+<line x1="0" y1="12" x2="384" y2="12" stroke="#e9e3da" stroke-width="1.5"/>
+<g transform="translate(388 0) scale(0.95)"><polygon points="10.00,5.50 12.50,10.56 18.08,11.37 14.04,15.31 15.00,20.88 10.00,18.25 5.00,20.88 5.96,15.31 1.92,11.37 7.50,10.56" fill="#9e5a6c" stroke="#9e5a6c" stroke-width="1.87" stroke-linejoin="round" opacity="1"/><polygon points="21.00,1.40 22.06,3.54 24.42,3.89 22.71,5.56 23.12,7.91 21.00,6.80 18.88,7.91 19.29,5.56 17.58,3.89 19.94,3.54" fill="#9e5a6c" stroke="#9e5a6c" stroke-width="1.00" stroke-linejoin="round" opacity="0.7"/><polygon points="22.00,17.60 22.71,19.03 24.28,19.26 23.14,20.37 23.41,21.94 22.00,21.20 20.59,21.94 20.86,20.37 19.72,19.26 21.29,19.03" fill="#9e5a6c" stroke="#9e5a6c" stroke-width="1.00" stroke-linejoin="round" opacity="0.5"/></g>
+<line x1="416" y1="12" x2="800" y2="12" stroke="#e9e3da" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="212" viewBox="0 0 440 212" role="img" aria-labelledby="t">
+<title id="t">html-editor: «Правка HTML» — edit HTML documents in the browser like in Google Docs: no install, no server, one index.html. Templates and 22 drag-and-drop blocks. Stack: JavaScript, HTML, CSS</title>
+<rect x=".5" y=".5" width="439" height="211" rx="16" fill="#16181d" stroke="#2a2d34"/>
+<text x="24" y="42" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="600" fill="#ece7e1">html-editor</text>
+<text x="416" y="41" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#d8a1b0">View repo →</text>
+<text x="24" y="78" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">«Правка HTML» — edit HTML documents in the browser like in</text>
+<text x="24" y="98" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">Google Docs: no install, no server, one index.html. Templates</text>
+<text x="24" y="118" font-family="'Segoe UI',system-ui,-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="14" fill="#a9a29a">and 22 drag-and-drop blocks</text>
+<rect x="24" y="164" width="86" height="24" rx="6" fill="#20232a"/><text x="67.0" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">JavaScript</text>
+<rect x="118" y="164" width="44" height="24" rx="6" fill="#20232a"/><text x="140.0" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">HTML</text>
+<rect x="170" y="164" width="37" height="24" rx="6" fill="#20232a"/><text x="188.5" y="180" text-anchor="middle" font-family="'Cascadia Mono',Consolas,'SF Mono',Menlo,monospace" font-size="12" fill="#a9a29a">CSS</text>
+</svg>
