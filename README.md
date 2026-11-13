@@ -41,25 +41,33 @@ I build client-server apps end to end — from the database schema and REST API 
 
 ## Featured projects
 
+<p>
 <a href="https://github.com/prettyw1ld/Desktop-Helper"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-desktop-helper-dark.svg" />
   <img src="assets/project-desktop-helper-light.svg" width="100%" alt="Desktop-Helper: «Пушик», a pixel cat that lives on top of all windows and teaches 60+ users to use a computer — points at real buttons, notices when a step is done, explains parts of the screen and warns about scams. Works offline. Stack: Electron, TypeScript, UI Automation, Vosk, Groq. Pictured: Pushik, a ginger pixel cat, sits on top of an app window and points at a button" />
 </picture></a>
+</p>
 
+<p>
 <a href="https://github.com/prettyw1ld/DamircoApp"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-damirco-dark.svg" />
   <img src="assets/project-damirco-light.svg" width="100%" alt="DamircoApp and DamircoAPI: computer-parts store — desktop client with catalog, cart, favorites, checkout and admin panel, plus a REST backend with JWT roles and .docx reports. Stack: Avalonia, MVVM, ASP.NET Core, EF Core, MySQL" />
 </picture></a>
+</p>
 
+<p>
 <a href="https://github.com/prettyw1ld/html-editor"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-html-editor-dark.svg" />
   <img src="assets/project-html-editor-light.svg" width="100%" alt="html-editor: «Правка HTML» — edit HTML documents in the browser like in Google Docs, no install, no server, one index.html, with templates and 22 drag-and-drop blocks. Stack: JavaScript, HTML, CSS" />
 </picture></a>
+</p>
 
+<p>
 <a href="https://github.com/prettyw1ld/duck_games"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-duck-games-dark.svg" />
   <img src="assets/project-duck-games-light.svg" width="100%" alt="duck_games: Jeopardy-style multiplayer web game with lobbies, observers, ratings, item shop and realtime SSE updates. Stack: Django, Python, JS" />
 </picture></a>
+</p>
 
 <sub>Cards are clickable · DamircoApp backend lives in <a href="https://github.com/prettyw1ld/DamircoAPI">DamircoAPI</a></sub>
 
