@@ -42,9 +42,9 @@ I build client-server apps end to end — from the database schema and REST API 
 ## Featured projects
 
 <p>
-<a href="https://github.com/prettyw1ld/Desktop-Helper"><picture>
+<a href="https://github.com/prettyw1ld/Pushik"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-desktop-helper-dark.svg" />
-  <img src="assets/project-desktop-helper-light.svg" width="100%" alt="Desktop-Helper: «Пушик», a pixel cat that lives on top of all windows and teaches 60+ users to use a computer — points at real buttons, notices when a step is done, explains parts of the screen and warns about scams. Works offline. Stack: Electron, TypeScript, UI Automation, Vosk, Groq. Pictured: Pushik, a ginger pixel cat, sits on top of an app window and points at a button" />
+  <img src="assets/project-desktop-helper-light.svg" width="100%" alt="Pushik: «Пушик», a pixel cat that lives on top of all windows and teaches 60+ users to use a computer — points at real buttons, notices when a step is done, explains parts of the screen and warns about scams. Works offline. Stack: Electron, TypeScript, UI Automation, Vosk, Groq. Pictured: Pushik, a ginger pixel cat, sits on top of an app window and points at a button" />
 </picture></a>
 </p>
 
